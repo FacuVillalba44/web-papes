@@ -1,0 +1,27 @@
+#img-logo{
+    max-width: 300px;
+    height: auto;
+}
+
+.btn-burguer{
+    background-color: var(--color-black-2);
+    border-radius: 5px;
+    font-size: 50px;
+}
+.navbar{
+    background-color: var(--color-black-3)!important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#list-items-nav{
+    gap: 2px;
+    justify-content: space-between;
+}
+.nav-item{
+    background-color: var(--color-black-1)!important;
+}
+.nav-link{
+    color: var(--color-white);
+    font-size: 1rem;
+    text-align: center;
+}
