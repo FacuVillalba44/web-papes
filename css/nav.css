@@ -1,6 +1,7 @@
 #img-logo{
-    max-width: 300px;
+    max-width: 350;
     height: auto;
+    margin-bottom: 2px;
 }
 
 .btn-burguer{
@@ -12,6 +13,7 @@
     background-color: var(--color-black-3)!important;
     padding: 0 !important;
     margin: 0 !important;
+    width: 100%;
 }
 #list-items-nav{
     gap: 2px;
