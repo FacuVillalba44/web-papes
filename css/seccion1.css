@@ -45,6 +45,20 @@
     max-height: 500px;
     object-fit: cover;
     object-position: center;
-    
+}
 
+@media (max-width: 768px) {
+    .seccion1{
+        flex-direction: column;
+        gap:10px
+    }
+    .seccion1 > .slogan{
+        padding: 20px;
+        min-height: 300px;
+    }
+    .d-block{
+        min-width: 100%;
+        min-height: 480px;
+    }
+    
 }
