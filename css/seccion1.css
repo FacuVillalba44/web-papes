@@ -15,6 +15,7 @@
     background-color: var(--color-black-2);
 }
 .slogan > p{
+    padding: 10px;
     text-align: center;
     letter-spacing: -1px;
     font-size: 40px;
