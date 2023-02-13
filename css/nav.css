@@ -11,14 +11,9 @@
     font-size: 40px;
 }
 /*color-fondo del navbar */
-header{
-    padding-left: 0 !important;
-    margin-right: 0 !important;
-}
+
 .navbar{
     background-color: var(--color-black-3)!important;
-    padding-left: 0 !important;
-    margin-right: 0 !important;
     min-width: 100%;
     min-height: 4rem;
 }
@@ -39,4 +34,26 @@ header{
     font-size: 20px;
     text-align: center;
     font-weight: 400;
+}
+
+/*querys*/
+@media(max-width: 1099px) {
+    #img-logo{
+        max-width: 390px;
+        height: auto;
+        margin-bottom: 2px;
+    }
+    .nav-link{
+        font-size: 18px; 
+        font-weight: 500;       
+    } 
+}
+@media(max-width: 990px) {
+    #list-items-nav{
+        gap: 5px;
+    }
+    .nav-link{
+        font-size: 16px; 
+        font-weight: 500;       
+    } 
 }

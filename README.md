@@ -4,3 +4,5 @@ Este proyecto tiene como objetivo final desarrollar un sitio web para un cliente
 En esta primera etapa se tiene como objetivo desarrollar la página principal y la navegabilidad entre las diferentes secciones que fueron planteadas en los requisitos por el cliente.
 
 NOTA PARA DESARROLLADOR: la propiedad de "content-fluid" agrega margenes a los lados, hay que sacarlos directamente con css y el atributo "important" para sobreescribir el estilo de boostrap
+
+VERSION DE BOOSTRAP: 5.2.3

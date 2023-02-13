@@ -1,0 +1,6 @@
+/*Estilos que modifican clases especificas de boostrap*/
+/*quita paddings automaticos*/
+.container-fluid{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
