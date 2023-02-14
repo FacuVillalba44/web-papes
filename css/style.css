@@ -2,11 +2,12 @@
 @import url(colors.css);
 @import url(nav.css);
 @import url(seccion1.css);
+@import url(seccion2.css);
 
 
 *{
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box; 
 }
 #body{
