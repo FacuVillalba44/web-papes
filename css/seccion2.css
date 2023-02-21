@@ -1,13 +1,17 @@
 .card{
     height: 480px;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 7px;
 }
 .card-img-top{
-    height: 280px;
+    min-height: 280px;
     width:100%;
     object-fit: contain;
-    padding: 10px;
-   
-    
+    padding: 7px;
+}
+.card-title{
+    font-size: 15px;
+}
+.list-group-item{
+    font-size: 12px;
 }
