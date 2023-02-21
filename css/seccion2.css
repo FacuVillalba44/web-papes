@@ -1,9 +1,13 @@
 .card{
     height: 480px;
+    width: 100%;
+    margin-bottom: 10px;
 }
 .card-img-top{
-    height: 260px;
-    width: 100%;
-    object-fit: cover;
-    object-position: center;
+    height: 280px;
+    width:100%;
+    object-fit: contain;
+    padding: 10px;
+   
+    
 }

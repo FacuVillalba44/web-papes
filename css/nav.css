@@ -15,18 +15,18 @@
 .navbar{
     background-color: var(--color-black-3)!important;
     min-width: 100%;
-    min-height: 4rem;
+    min-height: 4.5rem;
+    margin-bottom: 5px;
 }
 /*Distribución de items*/
 #list-items-nav{
-    gap: 10px;
+    gap: 3px;
     justify-content: space-between;
 }
 /*Color-fondo de elementos*/
 .nav-item{
     background-color: var(--color-black-1)!important;
-    border-radius: 5px;
-    
+    padding: 5px;    
 }
 /*Tamaño de fuente*/
 .nav-link{
