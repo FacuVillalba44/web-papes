@@ -1,0 +1,22 @@
+.footer{
+    background-color: var(--color-black-3);
+    color: var(--color-white);
+    
+}
+.footer>.row{
+    align-self: center;
+}
+.footer>h5{
+    color: var(--color-white);
+}
+.c-copy{
+   align-items: center;
+   justify-content: center;
+    align-self: center;
+    text-align: center;
+}
+.copy{
+    text-align: center;
+    font-size: small;
+    color: var(--color-white);
+}
