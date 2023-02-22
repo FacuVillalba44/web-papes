@@ -16,12 +16,21 @@
     font-weight: 400;
     color: var(--color-white);
 }
-.slogan > .btn {
+.slogan > a {
     min-width: 60%;
-    font-size: 1.4rem;
-    border: none;
+    font-size: 1.5rem;
+    border-radius: 8px;
     color: var(--color-white);
     background-color: var(--color-red);
+    text-align: center;
+    padding: 10px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.slogan > a:hover{
+    background-color: var(--color-white);
+    color: var(--color-black-3);
+    transition: .5s;
 }
 .seccion1 > .slider{
     min-width: 60%;

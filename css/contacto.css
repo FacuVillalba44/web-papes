@@ -1,0 +1,38 @@
+.seccion-3{
+    background-color: var(--color-white);
+}
+.isologo{
+    align-self: center;
+}
+.contacto-card{
+    background-color: var(--color-black-3);
+    color: var(--color-white);
+    height: 460px;
+}
+.mb-300{
+    height: 460px;
+    border: none;
+}
+.icono{
+    width: 30px;
+    height: 30px;
+}
+.icono-redes{
+    width: 40px;
+    height: 40px;
+    margin-bottom:5px ;
+}
+.icono-redes:hover{
+    width: 45px;
+    height: 45px;
+    transition: .5s;
+}
+.enlace{
+    text-decoration: none;
+    color: var(--color-white);
+}
+.enlace:hover{
+    color: var(--color-red);
+    font-size: 20px;
+    transition: .6s;
+}
